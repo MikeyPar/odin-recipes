@@ -1,2 +1,2 @@
 # odin-recipes
-Runescape Gnome Restaurant Recipes.
+Breakfast Recipes.
